@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: 30bcdbb695e01e744bcbdb471c1cf359
+timeCreated: 1520007639
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AKyoSprites1_0
+    21300002: AKyoSprites1_1
+    21300004: AKyoSprites1_2
+    21300006: AKyoSprites1_3
+    21300008: AKyoSprites1_4
+    21300010: AKyoSprites1_5
+    21300012: AKyoSprites1_6
+    21300014: AKyoSprites1_7
+    21300016: AKyoSprites1_8
+    21300018: AKyoSprites1_9
+    21300020: AKyoSprites1_10
+    21300022: AKyoSprites1_11
+    21300024: AKyoSprites1_12
+    21300026: AKyoSprites1_13
+    21300028: AKyoSprites1_14
+    21300030: AKyoSprites1_15
+    21300032: AKyoSprites1_16
+    21300034: AKyoSprites1_17
+    21300036: AKyoSprites1_18
+    21300038: AKyoSprites1_19
+    21300040: AKyoSprites1_20
+    21300042: AKyoSprites1_21
+    21300044: AKyoSprites1_22
+    21300046: AKyoSprites1_23
+    21300048: AKyoSprites1_24
+    21300050: AKyoSprites1_25
+    21300052: AKyoSprites1_26
+    21300054: AKyoSprites1_27
+    21300056: AKyoSprites1_28
+    21300058: AKyoSprites1_29
+    21300060: AKyoSprites1_30
+    21300062: AKyoSprites1_31
+    21300064: AKyoSprites1_32
+    21300066: AKyoSprites1_33
+    21300068: AKyoSprites1_34
+    21300070: AKyoSprites1_35
+    21300072: AKyoSprites1_36
+    21300074: AKyoSprites1_37
+    21300076: AKyoSprites1_38
+    21300078: AKyoSprites1_39
+    21300080: AKyoSprites1_40
+    21300082: AKyoSprites1_41
+    21300084: AKyoSprites1_42
+    21300086: AKyoSprites1_43
+    21300088: AKyoSprites1_44
+    21300090: AKyoSprites1_45
+    21300092: AKyoSprites1_46
+    21300094: AKyoSprites1_47
+    21300096: AKyoSprites1_48
+    21300098: AKyoSprites1_49
+    21300100: AKyoSprites1_50
+    21300102: AKyoSprites1_51
+    21300104: AKyoSprites1_52
+    21300106: AKyoSprites1_53
+    21300108: AKyoSprites1_54
+    21300110: AKyoSprites1_55
+    21300112: AKyoSprites1_56
+    21300114: AKyoSprites1_57
+    21300116: AKyoSprites1_58
+    21300118: AKyoSprites1_59
+    21300120: AKyoSprites1_60
+    21300122: AKyoSprites1_61
+    21300124: AKyoSprites1_62
+    21300126: AKyoSprites1_63
+    21300128: AKyoSprites1_64
+    21300130: AKyoSprites1_65
+    21300132: AKyoSprites1_66
+    21300134: AKyoSprites1_67
+    21300136: AKyoSprites1_68
+    21300138: AKyoSprites1_69
+    21300140: AKyoSprites1_70
+    21300142: AKyoSprites1_71
+    21300144: AKyoSprites1_72
+    21300146: AKyoSprites1_73
+    21300148: AKyoSprites1_74
+    21300150: AKyoSprites1_75
+    21300152: AKyoSprites1_76
+    21300154: AKyoSprites1_77
+    21300156: AKyoSprites1_78
+    21300158: AKyoSprites1_79
+    21300160: AKyoSprites1_80
+    21300162: AKyoSprites1_81
+    21300164: AKyoSprites1_82
+    21300166: AKyoSprites1_83
+    21300168: AKyoSprites1_84
+    21300170: AKyoSprites1_85
+    21300172: AKyoSprites1_86
+    21300174: AKyoSprites1_87
+    21300176: AKyoSprites1_88
+    21300178: AKyoSprites1_89
+    21300180: AKyoSprites1_90
+    21300182: AKyoSprites1_91
+    21300184: AKyoSprites1_92
+    21300186: AKyoSprites1_93
+    21300188: AKyoSprites1_94
+    21300190: AKyoSprites1_95
+    21300192: AKyoSprites1_96
+    21300194: AKyoSprites1_97
+    21300196: AKyoSprites1_98
+    21300198: AKyoSprites1_99
+    21300200: AKyoSprites1_100
+    21300202: AKyoSprites1_101
+    21300204: AKyoSprites1_102
+    21300206: AKyoSprites1_103
+    21300208: AKyoSprites1_104
+    21300210: AKyoSprites1_105
+    21300212: AKyoSprites1_106
+    21300214: AKyoSprites1_107
+    21300216: AKyoSprites1_108
+    21300218: AKyoSprites1_109
+    21300220: AKyoSprites1_110
+    21300222: AKyoSprites1_111
+    21300224: AKyoSprites1_112
+    21300226: AKyoSprites1_113
+    21300228: AKyoSprites1_114
+    21300230: AKyoSprites1_115
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AKyoSprites1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1163
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1145
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1174
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1161
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1130
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1129
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1129
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1146
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1161
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1161
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1161
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1161
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1161
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_13
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1131
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1129
+        width: 51
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_15
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1129
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_16
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1081
+        width: 98
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1039
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1039
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1039
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1007
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1007
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1007
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1007
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1025
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1039
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_26
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1039
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1007
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_28
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1007
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1007
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_30
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1007
+        width: 51
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_31
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 911
+        width: 97
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_32
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 943
+        width: 55
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 856
+        width: 34
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 886
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 894
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 911
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 903
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 897
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 902
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 893
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_41
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 893
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_42
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 905
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_43
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 918
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 779
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 782
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_46
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 804
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 782
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_48
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 827
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_49
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 741
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 701
+        width: 112
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 689
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 645
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 645
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 644
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 645
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_56
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 645
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_57
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 645
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_58
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 613
+        width: 48
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 613
+        width: 42
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_60
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 613
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_61
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 674
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_62
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 705
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_63
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 673
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_64
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 587
+        width: 63
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 611
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 475
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 500
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 560
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 547
+        width: 114
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_70
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 480
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 477
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_72
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 482
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_73
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 479
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_74
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 477
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_75
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 477
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_76
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 509
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_77
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 465
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_78
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 465
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 355
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 355
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 369
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 372
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_83
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 372
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_84
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 372
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_85
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 372
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_86
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 369
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_87
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 372
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_88
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 375
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_89
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 432
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_90
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 343
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_91
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 343
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_92
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 267
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 249
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_94
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 268
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_95
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 268
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_96
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 271
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_97
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 267
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_98
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 250
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_99
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 297
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_100
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 221
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_101
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 213
+        width: 46
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_102
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 205
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_103
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_104
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 161
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_105
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 159
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_106
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 159
+        width: 134
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_107
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 145
+        width: 112
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_108
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 144
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_109
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 159
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_110
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 175
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_111
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 53
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_112
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 53
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_113
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 53
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_114
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 53
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AKyoSprites1_115
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 5
+        width: 91
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

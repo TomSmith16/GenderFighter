@@ -1,0 +1,1942 @@
+fileFormatVersion: 2
+guid: 0993a3ebfeed88044a9458a94979d5b2
+timeCreated: 1520535926
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AMaiSpritesheet2_0
+    21300002: AMaiSpritesheet2_1
+    21300004: AMaiSpritesheet2_2
+    21300006: AMaiSpritesheet2_3
+    21300008: AMaiSpritesheet2_4
+    21300010: AMaiSpritesheet2_5
+    21300012: AMaiSpritesheet2_6
+    21300014: AMaiSpritesheet2_7
+    21300016: AMaiSpritesheet2_8
+    21300018: AMaiSpritesheet2_9
+    21300020: AMaiSpritesheet2_10
+    21300022: AMaiSpritesheet2_11
+    21300024: AMaiSpritesheet2_12
+    21300026: AMaiSpritesheet2_13
+    21300028: AMaiSpritesheet2_14
+    21300030: AMaiSpritesheet2_15
+    21300032: AMaiSpritesheet2_16
+    21300034: AMaiSpritesheet2_17
+    21300036: AMaiSpritesheet2_18
+    21300038: AMaiSpritesheet2_19
+    21300040: AMaiSpritesheet2_20
+    21300042: AMaiSpritesheet2_21
+    21300044: AMaiSpritesheet2_22
+    21300046: AMaiSpritesheet2_23
+    21300048: AMaiSpritesheet2_24
+    21300050: AMaiSpritesheet2_25
+    21300052: AMaiSpritesheet2_26
+    21300054: AMaiSpritesheet2_27
+    21300056: AMaiSpritesheet2_28
+    21300058: AMaiSpritesheet2_29
+    21300060: AMaiSpritesheet2_30
+    21300062: AMaiSpritesheet2_31
+    21300064: AMaiSpritesheet2_32
+    21300066: AMaiSpritesheet2_33
+    21300068: AMaiSpritesheet2_34
+    21300070: AMaiSpritesheet2_35
+    21300072: AMaiSpritesheet2_36
+    21300074: AMaiSpritesheet2_37
+    21300076: AMaiSpritesheet2_38
+    21300078: AMaiSpritesheet2_39
+    21300080: AMaiSpritesheet2_40
+    21300082: AMaiSpritesheet2_41
+    21300084: AMaiSpritesheet2_42
+    21300086: AMaiSpritesheet2_43
+    21300088: AMaiSpritesheet2_44
+    21300090: AMaiSpritesheet2_45
+    21300092: AMaiSpritesheet2_46
+    21300094: AMaiSpritesheet2_47
+    21300096: AMaiSpritesheet2_48
+    21300098: AMaiSpritesheet2_49
+    21300100: AMaiSpritesheet2_50
+    21300102: AMaiSpritesheet2_51
+    21300104: AMaiSpritesheet2_52
+    21300106: AMaiSpritesheet2_53
+    21300108: AMaiSpritesheet2_54
+    21300110: AMaiSpritesheet2_55
+    21300112: AMaiSpritesheet2_56
+    21300114: AMaiSpritesheet2_57
+    21300116: AMaiSpritesheet2_58
+    21300118: AMaiSpritesheet2_59
+    21300120: AMaiSpritesheet2_60
+    21300122: AMaiSpritesheet2_61
+    21300124: AMaiSpritesheet2_62
+    21300126: AMaiSpritesheet2_63
+    21300128: AMaiSpritesheet2_64
+    21300130: AMaiSpritesheet2_65
+    21300132: AMaiSpritesheet2_66
+    21300134: AMaiSpritesheet2_67
+    21300136: AMaiSpritesheet2_68
+    21300138: AMaiSpritesheet2_69
+    21300140: AMaiSpritesheet2_70
+    21300142: AMaiSpritesheet2_71
+    21300144: AMaiSpritesheet2_72
+    21300146: AMaiSpritesheet2_73
+    21300148: AMaiSpritesheet2_74
+    21300150: AMaiSpritesheet2_75
+    21300152: AMaiSpritesheet2_76
+    21300154: AMaiSpritesheet2_77
+    21300156: AMaiSpritesheet2_78
+    21300158: AMaiSpritesheet2_79
+    21300160: AMaiSpritesheet2_80
+    21300162: AMaiSpritesheet2_81
+    21300164: AMaiSpritesheet2_82
+    21300166: AMaiSpritesheet2_83
+    21300168: AMaiSpritesheet2_84
+    21300170: AMaiSpritesheet2_85
+    21300172: AMaiSpritesheet2_86
+    21300174: AMaiSpritesheet2_87
+    21300176: AMaiSpritesheet2_88
+    21300178: AMaiSpritesheet2_89
+    21300180: AMaiSpritesheet2_90
+    21300182: AMaiSpritesheet2_91
+    21300184: AMaiSpritesheet2_92
+    21300186: AMaiSpritesheet2_93
+    21300188: AMaiSpritesheet2_94
+    21300190: AMaiSpritesheet2_95
+    21300192: AMaiSpritesheet2_96
+    21300194: AMaiSpritesheet2_97
+    21300196: AMaiSpritesheet2_98
+    21300198: AMaiSpritesheet2_99
+    21300200: AMaiSpritesheet2_100
+    21300202: AMaiSpritesheet2_101
+    21300204: AMaiSpritesheet2_102
+    21300206: AMaiSpritesheet2_103
+    21300208: AMaiSpritesheet2_104
+    21300210: AMaiSpritesheet2_105
+    21300212: AMaiSpritesheet2_106
+    21300214: AMaiSpritesheet2_107
+    21300216: AMaiSpritesheet2_108
+    21300218: AMaiSpritesheet2_109
+    21300220: AMaiSpritesheet2_110
+    21300222: AMaiSpritesheet2_111
+    21300224: AMaiSpritesheet2_112
+    21300226: AMaiSpritesheet2_113
+    21300228: AMaiSpritesheet2_114
+    21300230: AMaiSpritesheet2_115
+    21300232: AMaiSpritesheet2_116
+    21300234: AMaiSpritesheet2_117
+    21300236: AMaiSpritesheet2_118
+    21300238: AMaiSpritesheet2_119
+    21300240: AMaiSpritesheet2_120
+    21300242: AMaiSpritesheet2_121
+    21300244: AMaiSpritesheet2_122
+    21300246: AMaiSpritesheet2_123
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1069
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1105
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1107
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1081
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1082
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1081
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1081
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1081
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1099
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1099
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1098
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1115
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1098
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1115
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1065
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 992
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 992
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1011
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1019
+        width: 108
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 974
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1006
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 999
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1027
+        width: 120
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 993
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 992
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 927
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 901
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 908
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 935
+        width: 115
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 918
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 918
+        width: 110
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_31
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 917
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 901
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_33
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 918
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 914
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 779
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 795
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 795
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 795
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 795
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_40
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 795
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 795
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_42
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 795
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 795
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_44
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 795
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_45
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 795
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_46
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 795
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_47
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 844
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_48
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 789
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 673
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 626
+        width: 58
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 627
+        width: 28
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 679
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 715
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 721
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 685
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_56
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 626
+        width: 58
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 689
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_58
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 674
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_59
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 658
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_60
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 658
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_61
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 658
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_62
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 722
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_63
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 722
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_64
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 651
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 567
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 552
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 567
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 567
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_69
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 536
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_70
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 551
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_71
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 542
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_72
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 552
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_73
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 536
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_74
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 599
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_75
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 514
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 414
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_77
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 430
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 414
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 424
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 453
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 414
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_82
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 478
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_83
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 430
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_84
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 422
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_85
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 398
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_86
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 462
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_88
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 284
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_89
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 284
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_90
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 292
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_91
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 292
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_92
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 291
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_93
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 291
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 291
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_95
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 307
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_96
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 259
+        width: 39
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_97
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 325
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_98
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 341
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_99
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 341
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 153
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_102
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 169
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_103
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 185
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_104
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 137
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_105
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 186
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_106
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 186
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_107
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 201
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_108
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 218
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_109
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 221
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_110
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 79
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_111
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 79
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_112
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 79
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 115
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_114
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 128
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_115
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 95
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_116
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_117
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_118
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_119
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_120
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 7
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_121
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 7
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_122
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 7
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AMaiSpritesheet2_123
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 7
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
