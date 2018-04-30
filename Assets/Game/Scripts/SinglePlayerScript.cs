@@ -21,7 +21,8 @@ public class SinglePlayerScript : MonoBehaviour
     private GameObject CharacterDisplayAI;
     private List<GameObject> characters;
     private List<GameObject> charactersAI;
-
+    public GameObject P1Character;
+    public GameObject AICharacter;
     GameObject P1Select;
     bool movement = false;
     bool PlayerSelect = true;
@@ -74,7 +75,7 @@ public class SinglePlayerScript : MonoBehaviour
 
 
 
-    public void FixedUpdate()
+    public void Update()
     {
         //PLAYER 1 
         //Input from arcade machine.
@@ -188,8 +189,11 @@ public class SinglePlayerScript : MonoBehaviour
         //Selection
         if (Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.G))
         {
+            
             if (PlayerSelect)
             {
+                P1Character = characters[index];
+                Debug.Log("P1: " + P1Character);
                 //Store Players character
                 //Move selector to other side
                 //Select AI character
@@ -197,7 +201,7 @@ public class SinglePlayerScript : MonoBehaviour
                 //Load character selected into next scene.
                 //SceneManager.LoadScene(0);
                 index = 0;
-                MenuItems = GameObject.Find("MenuItemsAI");
+                MenuItems = GameObject.Find("Canvas/AI/MenuItemsAI");
                 MenuItemsArray = new GameObject[MenuItems.transform.childCount];
                 for (int i = 0; i < MenuItems.transform.childCount; i++)
                 {
@@ -216,7 +220,11 @@ public class SinglePlayerScript : MonoBehaviour
             }
             else
             {
-                SceneManager.LoadScene(0);
+                AICharacter = charactersAI[index];
+                Debug.Log("AI: " + AICharacter);
+                //DontDestroyOnLoad(P1Character);
+                //DontDestroyOnLoad(AICharacter);
+                SceneManager.LoadScene(3);
             }
 
         }

@@ -20,16 +20,19 @@ public class CharacterSelect : MonoBehaviour {
     private GameObject CharacterDisplay2P;
     private List<GameObject> characters;
     private List<GameObject> characters2P;
-
+    Scene currentScene;
     GameObject P1Select;
     GameObject P2Select;
+    public GameObject P1Character;
+    public GameObject P2Character;
+
     bool movement = false;
 
 
     //INIT
     public void Start()
     {
-        Scene currentScene = SceneManager.GetActiveScene();
+        currentScene = SceneManager.GetActiveScene();
 
         MenuItems = GameObject.Find("MenuItems");
         MenuItemsArray = new GameObject[MenuItems.transform.childCount];
@@ -65,9 +68,10 @@ public class CharacterSelect : MonoBehaviour {
 
 
 
-
-        ///2 PLAYER MODE/////////////////////////////////////////////////////////////////////
-            MenuItems2P = GameObject.Find("MenuItems2P");
+        if (currentScene.name == "2Player")
+        {
+            ///2 PLAYER MODE/////////////////////////////////////////////////////////////////////
+            MenuItems2P = GameObject.Find("Canvas/P2/MenuItems2P");
             MenuItemsArray2P = new GameObject[MenuItems2P.transform.childCount];
             for (int i = 0; i < MenuItems2P.transform.childCount; i++)
             {
@@ -88,19 +92,19 @@ public class CharacterSelect : MonoBehaviour {
             //When sprites done, idle animation of character in here
             foreach (Transform t in GameObject.Find("CharacterDisplay2P").transform)
             {
-               // Debug.Log(t.gameObject);
+                // Debug.Log(t.gameObject);
                 characters2P.Add(t.gameObject);
                 t.gameObject.SetActive(false);
             }
             characters2P[index].SetActive(true);
-
+        }
     }
 
 
 
 
 
-    public void FixedUpdate()
+    public void Update()
     {
         //PLAYER 1 
         //Input from arcade machine.
@@ -185,8 +189,13 @@ public class CharacterSelect : MonoBehaviour {
         //Selection
         if (Input.GetButtonDown("Fire1")||Input.GetKeyDown(KeyCode.G))
         {
+            P1Character = characters[index];
+            Destroy(P1Select.GetComponent<BlinkText>());
+            P1Select.GetComponent<MeshRenderer>().enabled = true;
+            Debug.Log("P1: " + P1Character);
             //Load character selected into next scene.
-            SceneManager.LoadScene(0);
+
+
 
         }
 
@@ -195,8 +204,9 @@ public class CharacterSelect : MonoBehaviour {
 
 
 
-
-        //PLAYER 2 Second Joystick
+        if (currentScene.name == "2Player")
+        {
+            //PLAYER 2 Second Joystick
             if (Input.GetKeyDown(KeyCode.DownArrow))
             {
                 characters2P[indexP2].SetActive(false);
@@ -227,7 +237,7 @@ public class CharacterSelect : MonoBehaviour {
                     P2Select.transform.position = position2P;
 
                     characters2P[indexP2].SetActive(true);
-                
+
                 }
             }
 
@@ -240,7 +250,7 @@ public class CharacterSelect : MonoBehaviour {
 
                 if (indexP2 >= 0)
                 {
-                   
+
                     characters2P[indexP2].SetActive(true);
 
                     Vector2 position2P = P2Select.transform.position;
@@ -265,14 +275,28 @@ public class CharacterSelect : MonoBehaviour {
                 }
             }
 
-                //Selection
+            //Selection
             if (Input.GetKeyDown(KeyCode.Return))
             {
-            //Load character selected into next scene.
-            SceneManager.LoadScene(0);
+
+
+                //Load character selected into next scene.
+                P2Character = characters2P[indexP2];
+                Destroy(P2Select.GetComponent<BlinkText>());
+                P2Select.GetComponent<MeshRenderer>().enabled = true;
+                Debug.Log("P2: " + P2Character);
+
+
 
             }
 
+            if (P1Character != null && P2Character != null)
+            {
+               // DontDestroyOnLoad(P1Character);
+                //DontDestroyOnLoad(P2Character);
+                SceneManager.LoadScene(3);
+            }
+        }
     }
 
 }
