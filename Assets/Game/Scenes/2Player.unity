@@ -324,6 +324,14 @@ Prefab:
       propertyPath: m_Name
       value: CharacterDisplay2P
       objectReference: {fileID: 0}
+    - target: {fileID: 1866984850004686, guid: a33f91f9e57a09d43897f608ae2e5583, type: 2}
+      propertyPath: m_Name
+      value: MenuItems2P
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694525123938180, guid: a33f91f9e57a09d43897f608ae2e5583, type: 2}
+      propertyPath: m_Name
+      value: CharacterDisplay2P
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a33f91f9e57a09d43897f608ae2e5583, type: 2}
   m_IsPrefabParent: 0
@@ -511,6 +519,16 @@ Prefab:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114224007674691380, guid: 94ff0175ee2f09d489defaf4dbc10cb4,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114987074254339214, guid: 94ff0175ee2f09d489defaf4dbc10cb4,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 94ff0175ee2f09d489defaf4dbc10cb4, type: 2}
   m_IsPrefabParent: 0
@@ -631,7 +649,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 723580063}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.01, y: 2.265648, z: 60.833485}
+  m_LocalPosition: {x: 7.39, y: 2.265648, z: 60.833485}
   m_LocalScale: {x: 0.33318534, y: 0.33318534, z: 0.61750877}
   m_Children: []
   m_Father: {fileID: 1868398327}

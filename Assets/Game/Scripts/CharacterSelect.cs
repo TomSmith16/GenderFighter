@@ -25,7 +25,7 @@ public class CharacterSelect : MonoBehaviour {
     GameObject P2Select;
     public GameObject P1Character;
     public GameObject P2Character;
-
+    CharSelected selected;
     bool movement = false;
 
 
@@ -50,7 +50,7 @@ public class CharacterSelect : MonoBehaviour {
         P1Select.transform.position = position;
 
         characters = new List<GameObject>();
-        
+        selected = GameObject.Find("Selected").GetComponent<CharSelected>();
         //Display currently selected character
         //When sprites done, idle animation of character in here
         foreach(Transform t in GameObject.Find("CharacterDisplay").transform)
@@ -192,6 +192,7 @@ public class CharacterSelect : MonoBehaviour {
             P1Character = characters[index];
             Destroy(P1Select.GetComponent<BlinkText>());
             P1Select.GetComponent<MeshRenderer>().enabled = true;
+            selected.P1 = index;
             Debug.Log("P1: " + P1Character);
             //Load character selected into next scene.
 
@@ -284,6 +285,7 @@ public class CharacterSelect : MonoBehaviour {
                 P2Character = characters2P[indexP2];
                 Destroy(P2Select.GetComponent<BlinkText>());
                 P2Select.GetComponent<MeshRenderer>().enabled = true;
+                selected.P2 = indexP2;
                 Debug.Log("P2: " + P2Character);
 
 
@@ -292,8 +294,7 @@ public class CharacterSelect : MonoBehaviour {
 
             if (P1Character != null && P2Character != null)
             {
-               // DontDestroyOnLoad(P1Character);
-                //DontDestroyOnLoad(P2Character);
+                
                 SceneManager.LoadScene(3);
             }
         }

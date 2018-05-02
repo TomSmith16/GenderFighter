@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 222388263513688484}
   - component: {fileID: 114078816613164630}
   m_Layer: 5
-  m_Name: Kyo
+  m_Name: Maguire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77,7 +77,7 @@ GameObject:
   - component: {fileID: 222367766855017770}
   - component: {fileID: 114425276662826562}
   m_Layer: 5
-  m_Name: Kasumi
+  m_Name: Kimiko
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 222745386824487572}
   - component: {fileID: 114434860179939746}
   m_Layer: 5
-  m_Name: King Lion
+  m_Name: Rey
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 222908108195292104}
   - component: {fileID: 114807950812387956}
   m_Layer: 5
-  m_Name: Nakoruru
+  m_Name: Asami
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -200,7 +200,7 @@ GameObject:
   - component: {fileID: 222322838935845106}
   - component: {fileID: 114318710385271538}
   m_Layer: 5
-  m_Name: Mai
+  m_Name: Mia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 222397108659279510}
   - component: {fileID: 114378050323231960}
   m_Layer: 5
-  m_Name: Tung Fu Rue
+  m_Name: Zhang Wei
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -287,7 +287,7 @@ GameObject:
   - component: {fileID: 222477831478542322}
   - component: {fileID: 114015867183094020}
   m_Layer: 5
-  m_Name: Gai
+  m_Name: Lance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -339,6 +339,7 @@ GameObject:
   - component: {fileID: 23792512515438324}
   - component: {fileID: 102510793281380064}
   - component: {fileID: 114186431094934516}
+  - component: {fileID: 114987074254339214}
   m_Layer: 0
   m_Name: CharacterSelector
   m_TagString: Untagged
@@ -357,7 +358,7 @@ GameObject:
   - component: {fileID: 222419542665620488}
   - component: {fileID: 114123144932264836}
   m_Layer: 5
-  m_Name: Athena
+  m_Name: Ivy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -370,7 +371,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1915150301302542}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -732, y: 197.82584, z: -48.99997}
+  m_LocalPosition: {x: -693, y: 197.82584, z: -48.99997}
   m_LocalScale: {x: 30, y: 29.09204, z: 27.8}
   m_Children: []
   m_Father: {fileID: 224994047253098564}
@@ -386,13 +387,13 @@ Transform:
   m_LocalPosition: {x: -200, y: 11.32262, z: -2502}
   m_LocalScale: {x: 55.600006, y: 53.917244, z: 27.8}
   m_Children:
-  - {fileID: 224857876025975852}
+  - {fileID: 224185643912732930}
   - {fileID: 224047338625237104}
   - {fileID: 224281021846155098}
-  - {fileID: 224004248219156132}
+  - {fileID: 224857876025975852}
   - {fileID: 224175067302647770}
   - {fileID: 224769322967702990}
-  - {fileID: 224185643912732930}
+  - {fileID: 224004248219156132}
   - {fileID: 224135701898771276}
   m_Father: {fileID: 224994047253098564}
   m_RootOrder: 0
@@ -618,7 +619,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: GAI
+  m_Text: LANCE
 --- !u!114 &114078816613164630
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -651,7 +652,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: KYO
+  m_Text: MAGUIRE
 --- !u!114 &114081066578787110
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -750,7 +751,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: ATHENA
+  m_Text: IVY
 --- !u!114 &114186431094934516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -768,13 +769,15 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1915150301302542}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2bc55e994dc4eca43973ad9493f33fea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   totalLevels: 7
   xOffset: 1.5
+  P1Character: {fileID: 0}
+  P2Character: {fileID: 0}
 --- !u!114 &114318710385271538
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -807,7 +810,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: MAI
+  m_Text: MIA
 --- !u!114 &114378050323231960
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -840,7 +843,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: TUNG FU RUE
+  m_Text: ZHANG WEI
 --- !u!114 &114425276662826562
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -873,7 +876,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: KASUMI
+  m_Text: KIMIKO
 --- !u!114 &114434860179939746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -906,7 +909,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: BENIMARU
+  m_Text: REY
 --- !u!114 &114451249848183554
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1073,7 +1076,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: NAKORURU
+  m_Text: ASAMI
 --- !u!114 &114834489436444712
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1140,6 +1143,21 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: MAI
+--- !u!114 &114987074254339214
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1915150301302542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018c7891aaf8215419e1cfb38270226b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  totalLevels: 7
+  xOffset: 1.5
+  P1Character: {fileID: 0}
+  AICharacter: {fileID: 0}
 --- !u!212 &212175197010999496
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -1256,15 +1274,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300074, guid: 4c0a04d795e72ff498d628b055a41129, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 7.5, y: 9.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
 --- !u!212 &212465083290020844
 SpriteRenderer:
@@ -1583,7 +1601,7 @@ RectTransform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.035969995}
   m_Children: []
   m_Father: {fileID: 4640988905592360}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1709,7 +1727,7 @@ RectTransform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.035969995}
   m_Children: []
   m_Father: {fileID: 4640988905592360}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1727,11 +1745,11 @@ RectTransform:
   m_LocalScale: {x: 0.9999001, y: 1.0000353, z: 0.9999}
   m_Children: []
   m_Father: {fileID: 224313786775171876}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.5, y: -149}
+  m_AnchoredPosition: {x: -14.5, y: 197}
   m_SizeDelta: {x: 59, y: -22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224281021846155098
@@ -1762,13 +1780,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 224330754014341780}
+  - {fileID: 224199405429635698}
   - {fileID: 224515927325273276}
   - {fileID: 224021825419398098}
-  - {fileID: 224959472309405980}
+  - {fileID: 224330754014341780}
   - {fileID: 224543808455550656}
   - {fileID: 224161112627702430}
-  - {fileID: 224199405429635698}
+  - {fileID: 224959472309405980}
   - {fileID: 224089297380154692}
   m_Father: {fileID: 224994047253098564}
   m_RootOrder: 2
@@ -1789,11 +1807,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224313786775171876}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.5, y: 198}
+  m_AnchoredPosition: {x: -14.5, y: 23}
   m_SizeDelta: {x: 59, y: -22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224515927325273276
@@ -1861,7 +1879,7 @@ RectTransform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.035969995}
   m_Children: []
   m_Father: {fileID: 4640988905592360}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1879,11 +1897,11 @@ RectTransform:
   m_LocalScale: {x: 0.9999001, y: 1.0000353, z: 0.9999}
   m_Children: []
   m_Father: {fileID: 224313786775171876}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -14.5, y: 23}
+  m_AnchoredPosition: {x: -14.5, y: -145}
   m_SizeDelta: {x: 59, y: -22}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224994047253098564

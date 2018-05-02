@@ -26,6 +26,7 @@ public class SinglePlayerScript : MonoBehaviour
     GameObject P1Select;
     bool movement = false;
     bool PlayerSelect = true;
+    CharSelected selected;
 
 
     //INIT
@@ -40,7 +41,7 @@ public class SinglePlayerScript : MonoBehaviour
             MenuItemsArray[i] = MenuItems.transform.GetChild(i).gameObject;
             //Debug.Log(MenuItemsArray[i]);
         }
-
+        selected = GameObject.Find("Selected").GetComponent<CharSelected>();
         P1Select = GameObject.Find("CharacterSelector");
 
         Vector2 position = P1Select.transform.position;
@@ -194,6 +195,7 @@ public class SinglePlayerScript : MonoBehaviour
             {
                 P1Character = characters[index];
                 Debug.Log("P1: " + P1Character);
+                selected.P1 = index;
                 //Store Players character
                 //Move selector to other side
                 //Select AI character
@@ -221,6 +223,7 @@ public class SinglePlayerScript : MonoBehaviour
             else
             {
                 AICharacter = charactersAI[index];
+                selected.P2 = index;
                 Debug.Log("AI: " + AICharacter);
                 //DontDestroyOnLoad(P1Character);
                 //DontDestroyOnLoad(AICharacter);
